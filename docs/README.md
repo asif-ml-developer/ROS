@@ -9,3 +9,7 @@
 ### G1 humanoid robot
 
 * https://www.generationrobots.com/en/404241-g1-humanoid-robot.html
+
+### Open Rebortics
+
+* https://www.openrobotics.org/
